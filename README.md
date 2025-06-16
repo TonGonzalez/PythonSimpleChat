@@ -18,7 +18,7 @@ Projeto simples de chat em Python utilizando sockets. O sistema permite a comuni
 4. No segundo terminal, inicie o **cliente**:
    ```bash
    python client.py
- ```
+   ```
 
 5. Pronto! Agora você pode começar a trocar mensagens e acompanhar a comunicação.
 
