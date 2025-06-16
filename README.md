@@ -1,23 +1,23 @@
-# 💬 Chat em Python 🐍
+## 💬 Chat em Python 🐍
 
 Projeto simples de chat em Python utilizando sockets. O sistema permite a comunicação entre dois pontos, onde um atua como servidor e o outro como cliente. Projeto ideal para compreender a comunicação cliente-servidor em redes.
 
-## 🚀 Como executar o projeto
+### 🚀 Como executar o projeto
 
 1. Clone o repositório:
 ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/TonGonzalez/PythonSimpleChat
 ```
 2. Abra dois terminais (ou utilize dois computadores na mesma rede).
 
 3. No primeiro terminal, inicie o **servidor**:
    ```bash
-   python servidor.py 
+   python server.py 
    ```
 
 4. No segundo terminal, inicie o **cliente**:
    ```bash
-   python cliente.py
+   python client.py
  ```
 
 5. Pronto! Agora você pode começar a trocar mensagens e acompanhar a comunicação.
